@@ -18,9 +18,11 @@ I am very creative and proactive person.
  
  ```jsx
 //<-- My Goals Component --> 
+ 
 import React, { useState } from "react"
 import { Button } from 'react-bootstrap';
 export function MyLife () {
+ 
   const whoAmI = {
    name: "Paulo Faria",
    age: "35 years old", // at 2022 at least
@@ -30,18 +32,25 @@ export function MyLife () {
   const [location, setLocation] = useState ("Brasil")
   const [workingWithDev, setWorkingWithDev] = useState (false)
   const [mood, setMood] = useState ("")
+ 
   const jobInterview = () => {
    let hired;
    if (hired && location === "Brasil") {
+ 
     setMood("Happy!😃")
     setWorkingWithDev(true)
+ 
    } else if (hired && location === "North America or Europe") {
+ 
     setMood("VERY HAPPY! 😃")
     setWorkingWithDev(true)
+ 
    } else {
     console.log ("Study more and try again!") 
    }
   };
+ 
+ 
   return (
     <>
      <div>
@@ -67,9 +76,11 @@ export function MyLife () {
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
  <br/>
 
-## My GitHub Stats
-<br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SantosPauloRF&count_private=true&show_icons=true&theme=midnight-purple" alt="abhisheknaiidu" />
+## Some stats
+ 
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Paulo github stats](https://github-readme-stats.vercel.app/api?username=SantosPauloRF&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Paulo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosPauloRF&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
  
 <br/>
  
