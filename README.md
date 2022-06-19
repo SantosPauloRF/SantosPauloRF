@@ -1,14 +1,14 @@
-<h1 align="Left">Hello!! I am Paulo Faria. Thanks for visiting my github! 😃</h1>
+<h1 align="center">🙂 Hello!! I am Paulo Faria. Thanks for visiting my github! 🙃</h1>
 
 <p align="Left">
-I am a professional with alot of capability and desire to learn. I have been studying web development. Just finished basic courses of javascript, html, css, react.js and node.js. I am looking for oportunities to start working with those techs and develop myself with real job situations. 
+I am a professional with alot of capability and desire to learn. I have been studying web development. Just finished basic courses of javascript, html, css, react.js and node.js. I am looking for oportunities to start working with those techs and develop myself with real job situations. 💻 
 </p>
 <p align="Left"> 
  I belive to have the rigth profile to work with app and web developing becouse i like alot learn new things and technologies. Also i like to be challenged all the time. That motivates me to keep it going. I like to solve problems and creating new things. 
-I am very creative and proactive person.
+I am very creative and proactive person. 💻
 </p>
 <p align="Left"> 
- Also i have 4 very cute kittens! 
+ Also i have 4 very cute kittens! 😼😽😺😺
 </p>
 
 <div align="Left">
@@ -42,7 +42,7 @@ export function MyLife () {
  
    } else if (hired && location === "North America or Europe") {
  
-    setMood("VERY HAPPY! 😃")
+    setMood("VERY HAPPY!😆😆😆")
     setWorkingWithDev(true)
  
    } else {
