@@ -80,7 +80,7 @@ export function MyLife () {
  
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Paulo github stats](https://github-readme-stats.vercel.app/api?username=SantosPauloRF&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Paulo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosPauloRF&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Paulo github stats](https://github-readme-stats.vercel.app/api?username=SantosPauloRF&show_icons=true&title_color=9805e8&icon_color=9805e8&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Paulo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosPauloRF&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
  
 <br/>
  
